@@ -1,2 +1,3 @@
 ﻿this is diary two
 hello world
+debug
